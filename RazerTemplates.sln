@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazerTemplates", "RazerTemplates\RazerTemplates.csproj", "{EBDB261D-8615-4097-9AC5-3EDE04805223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDB261D-8615-4097-9AC5-3EDE04805223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDB261D-8615-4097-9AC5-3EDE04805223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDB261D-8615-4097-9AC5-3EDE04805223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDB261D-8615-4097-9AC5-3EDE04805223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FF7BA6-6C37-4BD2-B931-D7E61B2079F1}
+	EndGlobalSection
+EndGlobal
